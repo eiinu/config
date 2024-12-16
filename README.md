@@ -1,1 +1,4 @@
 # config
+
+- packages
+  - eslint-config
